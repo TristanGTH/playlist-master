@@ -1,0 +1,1 @@
+<div><a href="index.php">Menu de l'admin</a> </div>
